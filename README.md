@@ -9,7 +9,7 @@ It's really simple, version manage has 3 methods (which can be chained)
 
 ``` javascript
 var VersionManager = require('version-manage');
-var packageJson = require(./package.json');
+var packageJson = require('./package.json');
 var Manager = VersionManager(packageJson.version);
 ```
 
