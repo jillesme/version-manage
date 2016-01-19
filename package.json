@@ -1,0 +1,17 @@
+{
+  "name": "version-manage",
+  "version": "0.1.0",
+  "description": "Manage npm / node version strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "version",
+    "manager"
+  ],
+  "author": "Jilles Soeters <info@jilles.me>",
+  "license": "MIT"
+}
