@@ -18,7 +18,6 @@ var Manager = VersionManager(packageJson.version);
 Returns the current version as a string. This will update after every `.increment()` and `.decrement()`.
 
 ``` javascript
-var Manager = VersionManager(packageJson.version);
 console.log(Manager.version); // 0.1.0
 ```
 
